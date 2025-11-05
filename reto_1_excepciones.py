@@ -1,3 +1,18 @@
+from abc import ABC, abstractmethod
+import math
+
+class InvalidPointError(Exception):
+    def __init__(self, message="Points must be valid instances of the Point class."):
+        super().__init__(message)
+
+class InvalidDimensionError(Exception):
+    def __init__(self, message="Width and height must be greater than zero."):
+        super().__init__(message)
+
+class NotASquareError(Exception):
+    def __init__(self, message="The given points do not form a valid square."):
+        super().__init__(message)
+
 def operar(num1, num2, operador):
     if operador == '+':
         return num1 + num2
