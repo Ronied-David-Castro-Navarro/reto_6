@@ -2,6 +2,7 @@
 # Manejo de Excepciones — Reto 1
 ## Descripción General
 
-En este reto se implementó el manejo de excepciones para mejorar la seguridad y confiabilidad del código.
-Se añadieron validaciones y errores controlados en dos funciones principales: operar() y es_primo().
-El objetivo es evitar fallos en tiempo de ejecución y garantizar que los datos ingresados sean válidos antes de realizar las operaciones.
+En este reto se implementó el manejo de excepciones para la seguridad y confiabilidad del código.
+Se añadieron validaciones y errores controlados en algunas funciones del reto 1.
+
+Además, se le han puesto las excepciones personalizdas a shapes(),  para validar que los datos sean correctos.
