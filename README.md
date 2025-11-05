@@ -18,3 +18,5 @@ Se ha añadido una excepción `ValueErrror()` para que se valide que la lista no
 
 # Añadido de excepciones al codigo `shapes()`
 Se han añadido excepciones personalizadas para el codigo `shapes()` para validar que los valores sean correctos.
+## Clase `InvalidPointError()`
+Se ha añadido una clase como excepcion personalizada que valida que los puntos sean instancias validas de la clase `point()`
