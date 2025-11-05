@@ -15,3 +15,6 @@ Se han añadido un par de excepciones como `ZeroDivisionError()`, para validar q
 Se ha añadido una excepción `TypeError()` parar validar que los elemtos sean numeros enteros.
 ## Funcion `palabras_con_mismos_caracteres`
 Se ha añadido una excepción `ValueErrror()` para que se valide que la lista no esté  vacía.
+
+# Añadido de excepciones al codigo `shapes()`
+Se han añadido excepciones personalizadas para el codigo `shapes()` para validar que los valores sean correctos.
