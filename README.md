@@ -1,6 +1,6 @@
 # Reto_6
-Manejo de Excepciones — Reto 1
-Descripción General
+#Manejo de Excepciones — Reto 1
+##Descripción General
 
 En este reto se implementó el manejo de excepciones para mejorar la seguridad y confiabilidad del código.
 Se añadieron validaciones y errores controlados en dos funciones principales: operar() y es_primo().
