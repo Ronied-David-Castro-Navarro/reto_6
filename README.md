@@ -11,3 +11,7 @@ Además, se le han puesto las excepciones personalizdas a `shapes()`,  para vali
 Se han añadido excepciones al reto 1, para que se validen correctamente los datos.
 ## Función `operar()`
 Se han añadido un par de excepciones como `ZeroDivisionError()`, para validar que el denominador no sea 0 y `ValueError()` para que se ingrese un operador valido.
+## Función `es_primo()`
+Se ha añadido una excepción `TypeError()` parar validar que los elemtos sean numeros enteros.
+## Funcion `palabras_con_mismos_caracteres`
+Se ha añadido una excepción `ValueErrror()` para que se valide que la lista no esté  vacía.
